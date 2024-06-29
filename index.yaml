@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ingress-nginx:
+  - apiVersion: v2
+    appVersion: 0.44.0
+    created: "2024-06-29T18:45:48.231854518+05:30"
+    description: A Helm chart for Kubernetes Ingress NGINX Controller
+    digest: 149c6f3e80c60db93cd95b3077cee6b51da591fe721e65683b613344310031ad
+    name: ingress-nginx
+    type: application
+    urls:
+    - https://manchandavishal.github.io/charts-repo/ingress-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-29T18:45:48.231516922+05:30"
