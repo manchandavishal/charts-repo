@@ -9,6 +9,6 @@ entries:
     name: ingress-nginx
     type: application
     urls:
-    - https://github.com/manchandavishal/charts-repo
+    - https://manchandavishal.github.io/charts-repo/ingress-nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2024-06-29T18:45:48.231516922+05:30"
